@@ -20,7 +20,7 @@
         <mxCell id="W-5sHXfIHhk4Vsu4vAsh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W-5sHXfIHhk4Vsu4vAsh-4" target="W-5sHXfIHhk4Vsu4vAsh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W-5sHXfIHhk4Vsu4vAsh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="W-5sHXfIHhk4Vsu4vAsh-4" value="接受响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W-5sHXfIHhk4Vsu4vAsh-5" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
