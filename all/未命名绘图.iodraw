@@ -25,9 +25,10 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-140" value="金额=2？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-141">
+        <mxCell id="gFshJDke80ICRNPh4F3R-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="480" as="targetPoint" />
+            <mxPoint x="10" y="470" as="sourcePoint" />
+            <mxPoint x="200" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-141" value="输入饮品编号，switch 匹配输出对应矿泉水，编号错误则提示选择错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
