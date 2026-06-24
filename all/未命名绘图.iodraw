@@ -13,7 +13,10 @@
           <mxGeometry x="10" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-212" value="程序结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFshJDke80ICRNPh4F3R-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-229" target="gFshJDke80ICRNPh4F3R-212">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-229" value="调用中点对象的show方法，输出中点坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="180" width="120" height="60" as="geometry" />
@@ -39,7 +42,7 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-233" target="gFshJDke80ICRNPh4F3R-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-233" value="定义PInt类，声明属性、构造方法、show、gerMiddle方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gFshJDke80ICRNPh4F3R-233" value="定义Complex类：属性、构造、四则运算、相等判断、显示方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-229" target="gFshJDke80ICRNPh4F3R-229">
