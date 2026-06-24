@@ -12,55 +12,8 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-138" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gFshJDke80ICRNPh4F3R-212" value="程序结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-213" target="gFshJDke80ICRNPh4F3R-212">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-213" value="再次打印两车剩余炮弹数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gFshJDke80ICRNPh4F3R-213">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="210" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-215">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="210" />
-              <mxPoint x="474" y="211" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-215" value="tank1开火1次，tank2开火2次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-216" target="gFshJDke80ICRNPh4F3R-225">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-216" value="两车分别加速，打印当前速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-217" target="gFshJDke80ICRNPh4F3R-216">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-217" value="分别设置两车初始炮弹为10，打印炮弹数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-218" target="gFshJDke80ICRNPh4F3R-217">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-218" value="创建两个坦克对象tank1，tank2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-225" target="gFshJDke80ICRNPh4F3R-215">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-225" value="两车分别减速，打印当前速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
