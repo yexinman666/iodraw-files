@@ -52,7 +52,7 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-113" target="gFshJDke80ICRNPh4F3R-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gFshJDke80ICRNPh4F3R-113" value="遍历结果数组c，找到首个非0下标k，去掉前导零" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-114" target="gFshJDke80ICRNPh4F3R-113">
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-134" value="和&amp;lt;10" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gFshJDke80ICRNPh4F3R-135" value="循环输出结果数组c有效位" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="660" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
