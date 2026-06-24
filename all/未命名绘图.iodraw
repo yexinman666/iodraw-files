@@ -27,13 +27,13 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-201" target="gFshJDke80ICRNPh4F3R-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-201" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gFshJDke80ICRNPh4F3R-201" value="统计输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-202" target="gFshJDke80ICRNPh4F3R-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-202" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gFshJDke80ICRNPh4F3R-202" value="计算平均值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-203" target="gFshJDke80ICRNPh4F3R-202">
