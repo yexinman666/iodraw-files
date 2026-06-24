@@ -22,14 +22,16 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-5" target="gFshJDke80ICRNPh4F3R-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gFshJDke80ICRNPh4F3R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="301" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-9" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="730" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
