@@ -16,8 +16,10 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-19" value="程序进入main方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-22" target="gFshJDke80ICRNPh4F3R-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gFshJDke80ICRNPh4F3R-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-22" value="调用学生对象introduce()方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="400" width="120" height="60" as="geometry" />
@@ -46,11 +48,8 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-26" value="实例化Student类，创建学生对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="520" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="510" width="120" height="80" as="geometry" />
+        <mxCell id="gFshJDke80ICRNPh4F3R-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
