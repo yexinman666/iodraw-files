@@ -4,51 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="gFshJDke80ICRNPh4F3R-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-88" target="gFshJDke80ICRNPh4F3R-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-88" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-89" value="程序结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-90" target="gFshJDke80ICRNPh4F3R-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-90" value="通过printf格式化对齐输出个人基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-91" target="gFshJDke80ICRNPh4F3R-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-91" value="控制台提示输入身高，读取浮点数存入height" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="270" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-92" target="gFshJDke80ICRNPh4F3R-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-92" value="控制台提示输入年龄，读取字节数存入age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-93" target="gFshJDke80ICRNPh4F3R-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-93" value="控制台提示输入姓名，读取字符串存入name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-94" target="gFshJDke80ICRNPh4F3R-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-94" value="创建Scanner键盘录入对象reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-95" target="gFshJDke80ICRNPh4F3R-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-95" value="导入Scanner工具类，进入main方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
