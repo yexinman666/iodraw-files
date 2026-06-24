@@ -38,6 +38,9 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-215" value="tank1开火1次，tank2开火2次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gFshJDke80ICRNPh4F3R-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-216" target="gFshJDke80ICRNPh4F3R-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-216" value="两车分别加速，打印当前速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -53,8 +56,11 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-218" value="创建两个坦克对象tank1，tank2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gFshJDke80ICRNPh4F3R-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-225" target="gFshJDke80ICRNPh4F3R-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-225" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
