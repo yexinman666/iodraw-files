@@ -15,11 +15,6 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-243" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="-60" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620.0666666666666" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-33" value="尝试将输入转为数字，根据按钮执行对应四则运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,8 +42,11 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="370" width="120" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.866;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-46" target="2N957eUbv4aDZWk2v2lm-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
