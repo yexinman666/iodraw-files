@@ -66,7 +66,7 @@
         <mxCell id="h0qcKibIjFtcZRBbtzSD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-13" target="h0qcKibIjFtcZRBbtzSD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-13" value="调用工具类计算总成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-14" target="h0qcKibIjFtcZRBbtzSD-13">
