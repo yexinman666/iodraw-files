@@ -29,7 +29,7 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-232" target="gFshJDke80ICRNPh4F3R-231" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFshJDke80ICRNPh4F3R-232" value="执行带参构造方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="gFshJDke80ICRNPh4F3R-232" value="创建安检机器对象，初始化物品名称数组" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFshJDke80ICRNPh4F3R-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFshJDke80ICRNPh4F3R-233" target="gFshJDke80ICRNPh4F3R-232" edge="1">
