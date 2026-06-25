@@ -33,6 +33,9 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-2" value="try：循环读取5个参数转int存入数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-3" target="2N957eUbv4aDZWk2v2lm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,11 +53,17 @@
             <mxPoint x="460" y="135" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-12" target="2N957eUbv4aDZWk2v2lm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-13" target="2N957eUbv4aDZWk2v2lm-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
