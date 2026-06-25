@@ -15,19 +15,12 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-243" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="-60" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-32" target="2N957eUbv4aDZWk2v2lm-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620.0666666666666" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-32" target="2N957eUbv4aDZWk2v2lm-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-32" value="点击按钮&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-33" target="2N957eUbv4aDZWk2v2lm-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-33" value="窗口显示，等待用户点击操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2N957eUbv4aDZWk2v2lm-33" value="尝试将输入转为数字，根据按钮执行对应四则运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-34" target="2N957eUbv4aDZWk2v2lm-33">
@@ -41,12 +34,6 @@
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-35" value="初始化计算器界面与组件，绑定按钮事件监听器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-36" value="获取按钮文本，更新标签内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-37" value="关闭窗口，程序结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="300" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
