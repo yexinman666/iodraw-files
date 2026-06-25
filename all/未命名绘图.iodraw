@@ -15,11 +15,23 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-243" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="-60" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-32" target="2N957eUbv4aDZWk2v2lm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-32" target="2N957eUbv4aDZWk2v2lm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-33" target="2N957eUbv4aDZWk2v2lm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-34" target="2N957eUbv4aDZWk2v2lm-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
@@ -27,7 +39,7 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-35" target="2N957eUbv4aDZWk2v2lm-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2N957eUbv4aDZWk2v2lm-35" value="创建Swing窗体，初始化按钮、标签组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
