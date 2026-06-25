@@ -44,8 +44,11 @@
         <mxCell id="r0FRa9vPMzFpOitfQ89z-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="300" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-18" target="r0FRa9vPMzFpOitfQ89z-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
@@ -59,8 +62,11 @@
         <mxCell id="r0FRa9vPMzFpOitfQ89z-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-22" target="r0FRa9vPMzFpOitfQ89z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
