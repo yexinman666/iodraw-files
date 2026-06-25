@@ -69,7 +69,7 @@
         <mxCell id="r0FRa9vPMzFpOitfQ89z-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-3" target="r0FRa9vPMzFpOitfQ89z-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-3" value="创建大连银行对象并赋值参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-4" target="r0FRa9vPMzFpOitfQ89z-3">
