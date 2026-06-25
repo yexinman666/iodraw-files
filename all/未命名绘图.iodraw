@@ -36,11 +36,11 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-243" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="-60" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-33" value="try执行安检校验方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
