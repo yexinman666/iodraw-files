@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-3" value="捕获数组越界异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-4" target="2N957eUbv4aDZWk2v2lm-5">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-12" value="打印【请输入至少5个整数】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-13" value="打印【请输入整数】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2N957eUbv4aDZWk2v2lm-13" value="输出三边" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-13" target="2N957eUbv4aDZWk2v2lm-4">
