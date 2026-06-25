@@ -45,6 +45,9 @@
         <mxCell id="r0FRa9vPMzFpOitfQ89z-33" value="try执行安检校验方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-34" target="r0FRa9vPMzFpOitfQ89z-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="150" width="80" height="80" as="geometry" />
         </mxCell>
@@ -59,6 +62,9 @@
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.365;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-34" target="r0FRa9vPMzFpOitfQ89z-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
