@@ -39,6 +39,9 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-3" value="不满足" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-4" target="2N957eUbv4aDZWk2v2lm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-4" value="捕获三类异常分别给出对应提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -66,7 +69,7 @@
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
