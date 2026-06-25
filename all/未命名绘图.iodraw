@@ -56,7 +56,7 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-12" target="2N957eUbv4aDZWk2v2lm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-12" value="抛出非法参数异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2N957eUbv4aDZWk2v2lm-12" value="随机生成加减算式展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-13" value="修改随机数上限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
