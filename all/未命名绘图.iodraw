@@ -53,15 +53,8 @@
         <mxCell id="h0qcKibIjFtcZRBbtzSD-34" value="退出程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="h0qcKibIjFtcZRBbtzSD-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="290" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="210" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-38" target="h0qcKibIjFtcZRBbtzSD-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-38" value="给出猜大/猜小提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
@@ -69,7 +62,7 @@
         <mxCell id="h0qcKibIjFtcZRBbtzSD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-41" target="h0qcKibIjFtcZRBbtzSD-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-41" value="是否输入#号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-41" value="是否猜对" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.638;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-41" target="h0qcKibIjFtcZRBbtzSD-34">
