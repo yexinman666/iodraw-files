@@ -35,6 +35,18 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-35" value="初始化计算器界面与组件，绑定按钮事件监听器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2N957eUbv4aDZWk2v2lm-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="370" width="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
