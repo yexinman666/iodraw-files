@@ -48,13 +48,13 @@
         <mxCell id="h0qcKibIjFtcZRBbtzSD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-10" target="h0qcKibIjFtcZRBbtzSD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-10" value="关闭IO流释放资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-11" target="h0qcKibIjFtcZRBbtzSD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-11" value="文件未读完则继续循环，读完退出循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-12" target="h0qcKibIjFtcZRBbtzSD-11">
