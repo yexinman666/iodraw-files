@@ -57,6 +57,9 @@
         <mxCell id="r0FRa9vPMzFpOitfQ89z-37" value="抛出自定义异常&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-38" target="r0FRa9vPMzFpOitfQ89z-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-38" value="输出：物品被禁止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-46" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
