@@ -15,32 +15,13 @@
         <mxCell id="gFshJDke80ICRNPh4F3R-243" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="-60" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-0" target="h0qcKibIjFtcZRBbtzSD-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.0666666666666" y="90.0666666666666" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-0" value="初始化文件路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-1" target="h0qcKibIjFtcZRBbtzSD-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-1" target="h0qcKibIjFtcZRBbtzSD-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-1" value="判断score.txt是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="50" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-2" target="h0qcKibIjFtcZRBbtzSD-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-2" value="创建编码缓冲IO流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-4" target="h0qcKibIjFtcZRBbtzSD-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-4" value="提示文件不存在" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="20" width="120" height="80" as="geometry" />
@@ -57,32 +38,11 @@
         <mxCell id="h0qcKibIjFtcZRBbtzSD-11" value="文件未读完则继续循环，读完退出循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="250" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-12" target="h0qcKibIjFtcZRBbtzSD-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-12" value="控制台、文件双向输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="250" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-13" target="h0qcKibIjFtcZRBbtzSD-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-13" value="调用工具类计算总成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-14" target="h0qcKibIjFtcZRBbtzSD-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-14" value="循环读取每行成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-15" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-22" value="true" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="155" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-23" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="400" width="60" height="30" as="geometry" />
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-23" value="false" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="20" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
