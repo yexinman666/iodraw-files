@@ -78,6 +78,9 @@
         <mxCell id="r0FRa9vPMzFpOitfQ89z-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-46" target="r0FRa9vPMzFpOitfQ89z-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-46" target="r0FRa9vPMzFpOitfQ89z-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-46" value="判断是否还有未检物品" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="480" width="80" height="80" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-52" value="is" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-57" value="is" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="385" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
