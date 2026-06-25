@@ -26,7 +26,7 @@
             <mxPoint x="320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-24" value="短暂延迟后启动输入线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-24" value="等待猜数线程猜测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-25" target="h0qcKibIjFtcZRBbtzSD-24">
