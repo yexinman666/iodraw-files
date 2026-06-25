@@ -32,13 +32,13 @@
         <mxCell id="h0qcKibIjFtcZRBbtzSD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-25" target="h0qcKibIjFtcZRBbtzSD-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-25" value="启动汉字展示线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-25" value="随机生成1-100目标数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-26" target="h0qcKibIjFtcZRBbtzSD-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0qcKibIjFtcZRBbtzSD-26" value="设置线程参数并绑定共享对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-26" value="partition 生成数字线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h0qcKibIjFtcZRBbtzSD-27" target="h0qcKibIjFtcZRBbtzSD-26">
@@ -88,6 +88,9 @@
         </mxCell>
         <mxCell id="h0qcKibIjFtcZRBbtzSD-44" value="校验汉字，更新分数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0qcKibIjFtcZRBbtzSD-48" value="随机生成1-100目标数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
