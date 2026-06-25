@@ -39,11 +39,11 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-3" value="获取题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-4" target="2N957eUbv4aDZWk2v2lm-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-4" value="捕获三类异常分别给出对应提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="400" as="sourcePoint" />
+            <mxPoint x="430.0666666666666" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="520" width="120" height="80" as="geometry" />
@@ -53,8 +53,10 @@
             <mxPoint x="460" y="135" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-12" target="2N957eUbv4aDZWk2v2lm-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-12" value="随机生成加减算式展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
@@ -62,22 +64,25 @@
         <mxCell id="2N957eUbv4aDZWk2v2lm-13" value="修改随机数上限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-13" target="2N957eUbv4aDZWk2v2lm-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.03999999999996" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-18" value="切换难度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-21" target="2N957eUbv4aDZWk2v2lm-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2N957eUbv4aDZWk2v2lm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-21" value="finally执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="440" width="120" height="40" as="geometry" />
+        <mxCell id="2N957eUbv4aDZWk2v2lm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-24" target="2N957eUbv4aDZWk2v2lm-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2N957eUbv4aDZWk2v2lm-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2N957eUbv4aDZWk2v2lm-24" value="校验结果，异常则提示输入数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N957eUbv4aDZWk2v2lm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N957eUbv4aDZWk2v2lm-25" target="2N957eUbv4aDZWk2v2lm-24">
