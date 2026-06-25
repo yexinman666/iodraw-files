@@ -42,19 +42,20 @@
           <mxGeometry x="140" y="-60" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-18" target="r0FRa9vPMzFpOitfQ89z-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-18" value="内部类showContent&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;)&lt;/span&gt;输出校名与所有新闻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="180" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-19" target="r0FRa9vPMzFpOitfQ89z-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-19" value="打印正方形全部信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="r0FRa9vPMzFpOitfQ89z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="r0FRa9vPMzFpOitfQ89z-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="320.0666666666666" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-20" target="r0FRa9vPMzFpOitfQ89z-18">
           <mxGeometry relative="1" as="geometry" />
@@ -64,18 +65,6 @@
         </mxCell>
         <mxCell id="r0FRa9vPMzFpOitfQ89z-20" value="调用外部类showNews&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;)&lt;/span&gt;方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-21" target="r0FRa9vPMzFpOitfQ89z-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-21" value="调用父类方法计算面积与对角线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r0FRa9vPMzFpOitfQ89z-22" target="r0FRa9vPMzFpOitfQ89z-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r0FRa9vPMzFpOitfQ89z-22" value="调用重写后的show&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;)&lt;/span&gt;方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
